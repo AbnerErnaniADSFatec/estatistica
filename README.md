@@ -8,5 +8,5 @@ pip install requests beautifulsoup4 spotipy pdfminer3k selenium twitter wbdata p
 ```
 jupyter notebook
 ```
-## Get start
+## Get started
 ### Select .ipynb file and enjoy!
